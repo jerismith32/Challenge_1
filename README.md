@@ -1,21 +1,15 @@
 # Challenge 1 Accessibility Code Refactor
 # 01 HTML CSS Git: Code Refactor
 
-This is a landing page for Horiseon. The purpose of this page is to highlight the offerings from Horiseon. It includes information about search engine optimazation, online reputation management, and social media marketing. It also includes the benefits of Horiseon. 
+## Description
+This is a landing page for Horiseon. The purpose of this page is to highlight the offerings from Horiseon. It includes information about search engine optimazation, online reputation management, and social media marketing. It also includes the benefits of Horiseon. The page has been made more accessible using semantic HTML elements as well as alt tags on the images. The CSS has been organized and been made more concise. 
 
 ## Built With
 * HTML
 * CSS
 
-## User Story
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
-
-## Acceptance Criteria
+## The Following is the Acceptance Criteria
 
 ```
 GIVEN a webpage meets accessibility standards
@@ -30,6 +24,8 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+
+## Website
 
 ## Review
 
