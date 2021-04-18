@@ -28,13 +28,9 @@ THEN I find a concise, descriptive title
 ## Website
 [Horiseon Landing Page](https://jerismith32.github.io/challenge-1-accessibility-code-refactor/)
 
-## Review
+## Website Screenshots
 
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+![Horiseon Landing Page header with navigation buttons, banner image, and beginning content: SEO and benefits](./images/horiseon-screenshot-1.png)
 
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
