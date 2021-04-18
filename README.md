@@ -9,7 +9,7 @@ This is a landing page for Horiseon. The purpose of this page is to highlight th
 * CSS
 
 
-## The Following is the Acceptance Criteria
+## Acceptance Criteria
 
 ```
 GIVEN a webpage meets accessibility standards
@@ -26,6 +26,7 @@ THEN I find a concise, descriptive title
 ```
 
 ## Website
+[Horiseon Landing Page](https://jerismith32.github.io/challenge-1-accessibility-code-refactor/)
 
 ## Review
 
