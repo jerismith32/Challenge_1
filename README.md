@@ -30,7 +30,8 @@ THEN I find a concise, descriptive title
 
 ## Website Screenshots
 
-![Horiseon Landing Page header with navigation buttons, banner image, and beginning content: SEO and benefits](./images/horiseon-screenshot-1.png)
+![Horiseon Landing Page header with navigation buttons, banner image, and beginning content: SEO and benefits](/assets/images/horiseon-screenshot-1.png)
+
 
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
