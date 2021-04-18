@@ -2,7 +2,7 @@
 # 01 HTML CSS Git: Code Refactor
 
 ## Description
-This is a landing page for Horiseon. The purpose of this page is to highlight the offerings from Horiseon. It includes information about search engine optimazation, online reputation management, and social media marketing. It also includes the benefits of Horiseon. The page has been made more accessible using semantic HTML elements as well as alt tags on the images. The CSS has been organized and been made more concise. 
+This is a landing page for Horiseon. The purpose of this page is to highlight the offerings from Horiseon. It includes information about search engine optimazation, online reputation management, and social media marketing. It also includes the benefits of Horiseon. The page has been made more accessible using semantic HTML elements as well as alt tags on the images. The CSS has been organized and follows the structure of the HTML elements. Comments have been made on the HTML code and the CSS stylesheet. In the CSS stylesheet, some classes have been combined and made more concise. 
 
 ## Built With
 * HTML
@@ -31,7 +31,10 @@ THEN I find a concise, descriptive title
 ## Website Screenshots
 
 ![Horiseon Landing Page header with navigation buttons, banner image, and beginning content: SEO and benefits](/assets/images/horiseon-screenshot-1.png)
+![Horiseon Landing Page with SEO, online reputation management, social media marketing, and benefits](/assets/images/horiseon-screenshot-2.png)
 
+## Contributions
+Made by Jeri Smith
 
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
